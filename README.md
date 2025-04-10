@@ -67,7 +67,7 @@ This project analyzes a movie rental business's database to provide actionable i
 7. "Can you provide a list of movies and the number of times each has been rented out?"
 
 
-![](ImagesOutput/POPULARITY.png)
+![](ImagesOutput/popularity.png)
 
 8. "What are the top 10 highest-grossing films, and how much revenue has each generated?"
 
