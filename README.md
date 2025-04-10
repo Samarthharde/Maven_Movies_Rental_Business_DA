@@ -1,5 +1,5 @@
 # Mavan_Movies_RentalBusiness_DA
-![](image.jpg)
+![](ImagesOutput/image.jpg)
 
 ### Maven Movies Data Analysis: Enhancing Insights for a Rental Business
 
@@ -20,7 +20,7 @@ This project analyzes a movie rental business's database to provide actionable i
 - Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
 # Tools & Library Used
-![MYSQL_LOGO](SQL_image.jpg)
+![MYSQL_LOGO](ImagesOutput/SQL_image.jpg)
 
 
 # Project Result
