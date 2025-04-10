@@ -20,7 +20,7 @@ This project analyzes a movie rental business's database to provide actionable i
 - Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
 # Tools & Library Used
-![MYSQL_LOGO](img.png)
+![MYSQL_LOGO](SQL_image.jpg)
 
 
 # Project Result
