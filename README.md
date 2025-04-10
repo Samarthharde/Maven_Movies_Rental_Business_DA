@@ -62,12 +62,12 @@ This project analyzes a movie rental business's database to provide actionable i
 6. "Can you provide a list of films categorized by their genre, along with their language and film name?"
 
 
-![](IMAGE/TLC.png)
+![](ImagesOutput/TLC.png)
 
 7. "Can you provide a list of movies and the number of times each has been rented out?"
 
 
-![](IMAGE/popularity.png)
+![](ImagesOutput/POPULARITY.png)
 
 8. "What are the top 10 highest-grossing films, and how much revenue has each generated?"
 
