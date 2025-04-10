@@ -72,97 +72,97 @@ This project analyzes a movie rental business's database to provide actionable i
 8. "What are the top 10 highest-grossing films, and how much revenue has each generated?"
 
 
-![](IMAGE/revenue.png)
+![](ImagesOutput/REVENUE.png)
 
 9. "Can we identify the store with the highest historical revenue, and how does it compare to others in the same region?"
 
 
-![](IMAGE/MOST_REVENUE.png)
+![](ImagesOutput/MOST_REVENUE.png)
 
 10. "How many movie rentals did we have in total each month over the past year?"
 
 
-![](IMAGE/RENTALS_PER_MONTH.png)
+![](ImagesOutput/RENTALS_PER_MONTH.png)
 
 11. "How do we determine the rewards for users who have rented 30 or more times, and what details about their preferences should we consider?"
 
 
-![](IMAGE/REWARD_VIA_PHONE.png)
+![](ImagesOutput/REWARD_VIA_PHONE.png)
 
 12. "Could you pull all payments from our first 100 customers (Based on customers id)"
 
 
-![](IMAGE/FIRST_100_CUSTOMER_PAYMENTS.png)
+![](ImagesOutput/FIRST_100_CUSTOMER_PAYMENTS.png)
 
 13. "Now I’d love to see just payments over $5 for those same customers, since January 1, 2006"
 
 
-![](IMAGE/JAN_06_2006.png)
+![](ImagesOutput/JAN_06_2006.png)
 
 14. "Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?"
 
 
-![](IMAGE/PAYMENTS_OVER_$5.png)
+![](ImagesOutput/PAYMENTS_OVER_$5.png)
 
 15. "We need to understand the special features in our films. Could you pull a list of films which include a Behind the Scenes special feature?"
 
 
-![](IMAGE/BTS.png)
+![](ImagesOutput/BTS.png)
 
 16. "Which customer qualifies as the top spender, and what rewards or points should we offer them?"
 
 
-![](IMAGE/MOST_SPENDING_CUSTOMER.png)
+![](ImagesOutput/MOST_SPENDING_CUSTOMER.png)
 
 17. "Could you please pull a count of titles sliced by rental duration?"
 
 
-![](IMAGE/SLICED_BY_RENTAL_RATE.png)
+![](ImagesOutput/SLICED_BY_RENTAL_RATE.png)
 
 18. "How do movie ratings and lengths correlate with rental demand (number of movies rented) across various rental periods?"
 
 
-![](IMAGE/COMPARE_WITH_RENTAL_DURATION.png)
+![](ImagesOutput/COMPARE_WITH_RENTAL_DURATION.png)
 
 19. "I’m wondering if we charge more for a rental when the replacement cost is higher. Can you help me pull a count of films, along with the average, min, and max rental rate, grouped by replacement cost?"
 
 
-![](IMAGE/MIN_MAX_AVG.png)
+![](ImagesOutput/MIN_MAX_AVG.png)
 
 20. "Which movies should be recommended to individuals based on specific demographics like cultural background or interests?"
 
 
-![](IMAGE/FIT_FOR_RECOMMENDATION.png)
+![](ImagesOutput/FIT_FOR_RECOMMENDATION.png)
 
 21. “I’d like to know which store each customer goes to, and whether or not they are active. Could you pull a list of first and last names of all customers, and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
 
 
-![](IMAGE/ACTIVE_STORE.png)
+![](ImagesOutput/ACTIVE_STORE.png)
 
 22. “Can you pull for me a list of each film we have in inventory? I would like to see the film’s title, description, and the store_id value associated with each item, and its inventory_id. Thanks!”
 
 
-![](IMAGE/FILMS_IN_INVENTORY.png)
+![](ImagesOutput/FILMS_IN_INVENTORY.png)
 
 23. "Can you list the movies that [FIRST_NAME] [LAST_NAME] has been part of, and how many are there in total?"
 
 
-![](IMAGE/NO_OF_FILMS_BY_ACTOR.png)
+![](ImagesOutput/NO_OF_FILMS_BY_ACTOR.png)
 
 24. “One of our investors is interested in the films we carry and how many actors are listed for each film title. Can you pull a list of all titles, and figure out how many actors are associated with each title?”
 
 
-![](IMAGE/ACTOR_ASSOCIATED_WITH_TITLE.png)
+![](ImagesOutput/ACTOR_ASSOCIATED_WITH_TITLE.png)
 
 25. “Customers often ask which films their favorite actors appear in. It would be great to have a list of all actors, with each title that they appear in. Could you please pull that for me?” 
 
 
-![](Image[Output]/Films_In_Inventory.png)
+![](ImagesOutput[Output]/Films_In_Inventory.png)
 
 26.“Categorise movie as per length”
 
 
-![](IMAGE/MOVIES_AS_PER_LENGTH.jpg)
+![](ImagesOutput/MOVIES_AS_PER_LENGTH.jpg)
 
 27.  “We will be hosting a meeting with all of our staff and advisors soon. Could you pull one list of all staff and advisor names, and include a column noting whether they are a staff member or advisor? Thanks!”
 
