@@ -33,31 +33,31 @@ This project analyzes a movie rental business's database to provide actionable i
 1. "How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?"
 
 
-![](IMAGE/email.png)
+![](ImagesOutput/Email.png)
 
 
 2. "What is the total number of movies in the inventory that are available for rent at the lowest rental rate of $0.99?"
 
 
-![](IMAGE/cheapestrental.png)
+![](ImagesOutput/CHEAPEST_RENTAL.png)
 
 
 3. "How can we categorize all movies based on their rental rates and determine the count of movies in each category?"
 
 
-![](IMAGE/total_no_of_movies.png)
+![](ImagesOutput/TOTAL_NO_OF_MOVIES.png)
 
 
 4. "Which movie rating (e.g., PG, PG-13, R) has the highest number of titles in the inventory, and how can this information help optimize inventory management?"
 
 
-![](IMAGE/rating_wise_count.png)
+![](ImagesOutput/rating_wise_count.png)
 
 
 5. "What is the total count of PG-rated movies that have been rented, and what does this indicate about customer preferences?"
 
 
-![](Image[Output]/Total_Films.png)
+![](ImagesOutput/Total_Films.png)
 
 6. "Can you provide a list of films categorized by their genre, along with their language and film name?"
 
