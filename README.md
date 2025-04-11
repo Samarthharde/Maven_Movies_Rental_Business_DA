@@ -157,7 +157,7 @@ This project analyzes a movie rental business's database to provide actionable i
 25. “Customers often ask which films their favorite actors appear in. It would be great to have a list of all actors, with each title that they appear in. Could you please pull that for me?” 
 
 
-![](ImagesOutput[Output]/Films_In_Inventory.png)
+![](ImagesOutput/Films_In_Inventory.png)
 
 26.“Categorise movie as per length”
 
