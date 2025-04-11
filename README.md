@@ -1,5 +1,5 @@
 # Mavan_Movies_RentalBusiness_DA
-![](ImagesOutput/image.jpg)
+![](ImagesOutput/image.png)
 
 ### Maven Movies Data Analysis: Enhancing Insights for a Rental Business
 
@@ -57,7 +57,7 @@ This project analyzes a movie rental business's database to provide actionable i
 5. "What is the total count of PG-rated movies that have been rented, and what does this indicate about customer preferences?"
 
 
-![](ImagesOutput/Total_Films.png)
+![](ImagesOutput/PG-rated.png)
 
 6. "Can you provide a list of films categorized by their genre, along with their language and film name?"
 
@@ -157,7 +157,7 @@ This project analyzes a movie rental business's database to provide actionable i
 25. “Customers often ask which films their favorite actors appear in. It would be great to have a list of all actors, with each title that they appear in. Could you please pull that for me?” 
 
 
-![](ImagesOutput/Films_In_Inventory.png)
+![](ImagesOutput/FILMS_IN_INVENTORY.png)
 
 26.“Categorise movie as per length”
 
@@ -172,4 +172,4 @@ This project analyzes a movie rental business's database to provide actionable i
 28. Which rating is most prevalant in each store?
 
 
-![](ImagesOutput/Prevalent_Rating.png)
+![](ImagesOutput/PREVALANT.png)
